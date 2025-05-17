@@ -1,7 +1,6 @@
-# 💫 Hi!
 💮 I'm Aila Roshiele C. Donayre, a 2nd-year BS Computer Science student.<br>💌 You can reach me at ailaroshieledonayre@gmail.com.
 
-# 💻 Tech Stack:
+# 👾 Tech Stack
 <div align="center">
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -19,7 +18,7 @@
 
 </div>
 
-# ⚡ GitHub Stats:
+# ⚡ GitHub Stats
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=ailadonayre&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>

@@ -8,4 +8,4 @@
 
 <br/>
 
-<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/raw/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/ailadonayre/ailadonayre/raw/output/github-contribution-grid-snake.svg" />

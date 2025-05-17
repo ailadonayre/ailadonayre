@@ -13,8 +13,9 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ailadonayre/ailadonayre/raw/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake" src="https://github.com/ailadonayre/ailadonayre/raw/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://github.com/ailadonayre/ailadonayre/raw/output/github-contribution-grid-snake.svg"
+  />
 </div>
+

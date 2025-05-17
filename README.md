@@ -1,5 +1,5 @@
 <div align="center"> 
-💮 I'm Aila Roshiele C. Donayre, a 2nd-year BS Computer Science student.
+💮 I'm Aila Roshiele C. Donayre, a 2nd-year BS Computer Science student.<br>
 💌 You can reach me at ailaroshieledonayre@gmail.com.
 </div>
 

@@ -1,4 +1,7 @@
-💮 I'm Aila Roshiele C. Donayre, a 2nd-year BS Computer Science student.<br>💌 You can reach me at ailaroshieledonayre@gmail.com.
+<div align="center"> 
+💮 I'm Aila Roshiele C. Donayre, a 2nd-year BS Computer Science student.
+💌 You can reach me at ailaroshieledonayre@gmail.com.
+</div>
 
 # 👾 Tech Stack
 <div align="center">

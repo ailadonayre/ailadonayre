@@ -28,14 +28,3 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 </div>
-
-# ⚡ GitHub Stats
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=ailadonayre&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ailadonayre&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ailadonayre&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
